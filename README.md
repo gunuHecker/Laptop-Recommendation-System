@@ -1,1 +1,2 @@
-This is Readme.
+Laptop Recommendation System.
+In this Project I have used Selenium and BeautifulSoup to web scrape data of Laptops and their Details from rtings websites. And then used Machine Learning Algorithms to Recommend Top 5 laptops.
